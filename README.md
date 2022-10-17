@@ -1,5 +1,5 @@
 # travel_website_project
-Designed a Responsive Travel Website using Frontend Technologies(HTML,CSS and JavaScript). 
+Designed an Responsive Travel Website using Frontend Technologies(HTML,CSS and JavaScript). 
 Used HTML structure elements like header, nav, footer and some bootstrap components to show different components and bootstrap classes for responsive design. 
 Styling to Webpage is done using CSS, icons are taken from fontawesome.com. 
 Made the webpage dynamically mobile responsive using JS. 
